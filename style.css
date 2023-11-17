@@ -3,6 +3,9 @@
     margin: 0%;
     box-sizing: border-box;
 }
+::selection{
+    background-color: #ba9b73a6;
+}
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
     .container.box-navbar{
